@@ -1,0 +1,14 @@
+body {
+    background-color: wheat;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title {
+    font-size: 52px;
+    color: darkcyan;
+    background-color: blanchedalmond;
+}
+
